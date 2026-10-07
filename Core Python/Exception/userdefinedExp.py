@@ -1,0 +1,2 @@
+class FbsException(Exception):
+    pass

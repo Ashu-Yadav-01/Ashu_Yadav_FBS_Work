@@ -1,0 +1,2 @@
+class AshuException(Exception):
+    pass
